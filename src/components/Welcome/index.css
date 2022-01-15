@@ -1,0 +1,40 @@
+/* Write your CSS here */
+
+.app-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #1e293b;
+}
+
+.heading {
+  color: #f0bb03;
+  font-family: 'Bree Serif';
+  font-size: 60px;
+  font-weight: bold;
+  text-align: center;
+}
+.description {
+  font-family: 'Bree Serif';
+  color: white;
+  font-size: 20px;
+  margin: 30px;
+  text-align: center;
+}
+
+.button {
+  font-size: 16px;
+  font-family: 'Roboto';
+  padding: 20px;
+  border-radius: 8px;
+  border: none;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 18px;
+  padding-right: 18px;
+  text-align: center;
+}
+.btn-container {
+  text-align: center;
+}
